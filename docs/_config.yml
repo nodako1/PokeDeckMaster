@@ -1,0 +1,14 @@
+title: "PokeDeckMaster"
+description: "PokeDeckMaster 公開ドキュメント"
+lang: ja
+theme: minima
+url: "https://nodako1.github.io"
+baseurl: "/PokeDeckMaster"
+plugins:
+  - jekyll-seo-tag
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor

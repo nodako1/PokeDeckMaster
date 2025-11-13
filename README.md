@@ -1,0 +1,2 @@
+# PokeDeckMaster
+iOSアプリPokeDeckMasterの公開用リポジトリ

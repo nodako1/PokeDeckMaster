@@ -1,0 +1,30 @@
+title: PokeDeckMaster
+description: ポケモンカードゲームのデッキを簡単に作成・管理できるiOSアプリ
+lang: ja
+theme: jekyll-theme-cayman
+
+# OGP設定
+og_image: https://nodako1.github.io/PokeDeckMaster/assets/ogp.png
+twitter_card: summary_large_image
+
+# GitHub Pages設定
+baseurl: "/PokeDeckMaster"
+url: "https://nodako1.github.io"
+
+# プラグイン
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# SEO設定
+author: nodako1
+social:
+  name: PokeDeckMaster
+  links:
+    - https://github.com/nodako1/PokeDeckMaster
+
+# その他の設定
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
